@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: Layout Test
+title: "Layout Test"
 categories: test
 tags: markdown
 author: Bumik Yoo
@@ -14,3 +14,11 @@ author: Bumik Yoo
 - 포스트를 블로그에 적용
 - toc, title, author 적용
 - 카테고리를 추가하고 적용
+
+### 1차 테스트 결과
+
+포스트가 블로그에 적용되고 toc, title, author또한 적용되었습니다. 하지만 카테고리 기능은 예상과 다르게 적용되는 부분이 있어 _config.yml과 다른 설정을 수정하기로 하였습니다. 
+수정 사항은 다음과 같습니다
+
+- docs, faq, tags 페이지 삭제
+- 블로그의 기본 페이지에 포스트 추가
