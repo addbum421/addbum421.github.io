@@ -1,10 +1,5 @@
 ---
 layout: post
-toc: true
-title: "Layout Test"
-categories: test
-tags: markdown
-author: Bumik Yoo
 ---
 
 ## Layout Test
