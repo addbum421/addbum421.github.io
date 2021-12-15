@@ -5,7 +5,7 @@ date:   2021-12-16 03:20:03 +0900
 categories: test
 ---
 
-##Test Post
+## Test Post
 
 이 포스트는 11주차 강의를 실습하고 정상작동을 확인하기위한 포스트입니다.
 
@@ -14,3 +14,10 @@ categories: test
 - 상단의 layout, title, date, category의 적용
 - markdown 형식의 적용 
 - github 업로드 후 블로그에서 적용
+
+위 사항에 대한 결과입니다.
+
+- 상단 항목이 적용되었습니다
+- 형식이 적용되었으나 ##Test Post부분이 정상적으로 작동하지 않았습니다.
+- 블로그에 적용되었습니다.
+
