@@ -3,6 +3,7 @@ layout: post
 title:  "post test"
 date:   2021-12-16 03:20:03 +0900
 categories: test
+comment: true
 ---
 
 ## Test Post

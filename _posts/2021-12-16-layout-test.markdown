@@ -4,6 +4,7 @@ toc: true
 title: "Layout Test"
 categories: test
 author: Bumik Yoo
+comment: true
 ---
 
 ## Layout Test
