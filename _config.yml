@@ -17,9 +17,7 @@ paginate: 100
 # 
 # google_analytics: 
 
-# Uncomment the below lines and set the Disqus shortname for enabling Disqus
-# 
-# disqus:
+#disqus:
 
 # Jekyll
 # ======
@@ -37,3 +35,8 @@ social:
     - https://github.com/addbum421
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
+comment:
+  provider:         "disqus"
+  disqus:
+    shortname:      "addbum421"
+
