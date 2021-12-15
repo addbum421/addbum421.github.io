@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 toc: true
 title: "Layout Test"
 categories: test
