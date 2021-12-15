@@ -36,7 +36,7 @@ social:
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
 comment:
-  provider:         "disqus"
+  provider: disqus
   disqus:
-    shortname:      "addbum421"
+    shortname: addbum421
 
