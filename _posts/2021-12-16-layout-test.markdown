@@ -1,5 +1,9 @@
 ---
-layout: post
+layout:post
+toc: true
+title: "Layout Test"
+categories: test
+author: Bumik Yoo
 ---
 
 ## Layout Test
