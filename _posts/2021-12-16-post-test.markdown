@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "post test"
+date:   2021-12-16 03:20:03 +0900
+categories: test
+---
+
+##Test Post
+
+이 포스트는 11주차 강의를 실습하고 정상작동을 확인하기위한 포스트입니다.
+
+확인 사항은 다음과 같습니다.
+
+- 상단의 layout, title, date, category의 적용
+- markdown 형식의 적용 
+- github 업로드 후 블로그에서 적용
