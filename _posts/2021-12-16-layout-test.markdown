@@ -1,14 +1,14 @@
 ---
 layout: post
 toc: true
-title: "Layout Test"
+title: "Theme Test"
 categories: test
 author: Bumik Yoo
 comment: true
 ---
 
 ## Layout Test
-이 포스트는 적용된 테마의 layout을 테스트하는 포스트입니다. 테마의 양식에 맞추어 markdown형식을 수정하고 이를 확인합니다.
+이 포스트는 적용된 테마를 테스트하는 포스트입니다. 테마의 양식에 맞추어 markdown형식을 수정하고 이를 확인합니다.
 확인 사항은 다음과 같습니다.
 
 - 포스트를 블로그에 적용
@@ -25,4 +25,4 @@ comment: true
 
 ### 수정 결과
 
-사용되지 않는 페이지를 삭제하였으며 블로그의 기본 페이지에 포스트가 추가되었습니다.
+_data/navigation.yml를 수정하고 docs.md, faq.md를 삭제하여 사용되지 않는 페이지를 삭제하였으며 블로그의 기본 페이지에 포스트가 추가되었습니다.

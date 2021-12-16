@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "post test"
-date:   2021-12-16 03:20:03 +0900
+toc: true
+title: "Post Test"
 categories: test
+author: Bumik Yoo
 comment: true
 ---
 
 ## Test Post
-
 이 포스트는 11주차 강의를 실습하고 정상작동을 확인하기위한 포스트입니다.
 
 확인 사항은 다음과 같습니다.
